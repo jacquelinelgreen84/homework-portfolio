@@ -1,5 +1,5 @@
 body{
-	background-color:lightgray;
+	background-color:ghostwhite;
 }
 
 nav, h1, footer{
@@ -20,8 +20,9 @@ img{
 }
 
 h3{
-	text-align: right;
+	font-weight:bold;
 }
 p{
+	display:inline;
 	text-align: right;
 }
