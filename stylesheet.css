@@ -1,0 +1,27 @@
+body{
+	background-color:lightgray;
+}
+
+nav, h1, footer{
+	text-align: center;
+}
+h4{ 
+	color: blue;
+	text-decoration: underline;
+}
+h1{
+    font-size: 200%
+}
+img{
+	width: 200px;
+    height: 200px;
+    border: 5px solid blue;
+    box-sizing: border-box;
+}
+
+h3{
+	text-align: right;
+}
+p{
+	text-align: right;
+}
